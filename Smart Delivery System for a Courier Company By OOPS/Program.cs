@@ -48,7 +48,7 @@ public class Program
         Console.WriteLine("Vehicle Type : " + truck.GetVehicleType());
         Console.WriteLine("Type Of Licence : "+truck.GetLicenseCategory());
 
-
+        //note added on aug
         Console.WriteLine("\n Details Of Scooter Delivery Boy\n");
         Console.WriteLine("Staff Id : " + scooterCourier.StaffId);
         Console.WriteLine("Staff Name : " + scooterCourier.StaffName);
